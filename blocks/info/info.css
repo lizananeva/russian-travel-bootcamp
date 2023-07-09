@@ -1,1 +1,4 @@
-.info {}
+.info {
+  max-width: 984px;
+  align-items: flex-start;
+}

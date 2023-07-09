@@ -1,1 +1,5 @@
-.header__logo-image {}
+.header__logo-image {
+  width: 176px;
+  height: 52px;
+  display: block;
+}

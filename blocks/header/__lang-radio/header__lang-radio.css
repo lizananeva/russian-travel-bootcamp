@@ -1,1 +1,17 @@
-.header__lang-radio {}
+.header__lang-radio:first-child {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(0 0 0 0);
+}
+
+.header__lang-radio:last-child {
+  font-size: 24px;
+  line-height: 40px;
+  cursor: pointer;
+}
+
+.header__lang-radio:first-child:checked + .header__lang-radio:last-child {
+  border-bottom: 2px solid white;
+}

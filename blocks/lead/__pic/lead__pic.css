@@ -1,1 +1,4 @@
-.lead__pic {}
+.lead__pic {
+  display: block;
+  max-width: 100%;
+}

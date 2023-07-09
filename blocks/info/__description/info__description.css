@@ -1,1 +1,6 @@
-.info__description {}
+.info__description {
+  max-width: 690px;
+  font-size: 16px;
+  line-height: 1.63;
+  margin: 0 0 33px;
+}
