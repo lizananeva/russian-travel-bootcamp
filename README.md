@@ -1,5 +1,7 @@
 # Проект: Путешествия по России
 
+[Ссылка на проект](https://lizananeva.github.io/russian-travel-bootcamp/index.html "Путешествия по России")
+
 ### Обзор
 * Интро
 * Стек технологий
