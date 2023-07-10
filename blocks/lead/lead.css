@@ -16,3 +16,9 @@
     padding-right: 0;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .lead {
+    padding-top: 32px;
+  }
+}

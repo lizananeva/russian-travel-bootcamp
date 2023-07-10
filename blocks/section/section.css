@@ -18,3 +18,9 @@
     padding: 5.73vw 24px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .section {
+    padding: 32px 16px;
+  }
+}

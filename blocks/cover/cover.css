@@ -10,3 +10,9 @@
     padding-top: 47px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .cover {
+    padding-top: 34px;
+  }
+}

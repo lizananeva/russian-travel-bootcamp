@@ -15,3 +15,10 @@
 .header__lang-radio:first-child:checked + .header__lang-radio:last-child {
   border-bottom: 2px solid white;
 }
+
+@media screen and (max-width: 425px) {
+  .header__lang-radio:last-child {
+    font-size: 18px;
+    line-height: 35px;
+  }
+}

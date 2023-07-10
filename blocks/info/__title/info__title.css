@@ -11,3 +11,11 @@
     line-height: calc(100% + 4px);
   }
 }
+
+@media screen and (max-width: 425px) {
+  .info__title {
+    max-width: 85%;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
