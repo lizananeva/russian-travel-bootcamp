@@ -29,3 +29,9 @@
 .cover__link:hover::after {
   opacity: .8;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover__link {
+    min-height: 62.5vw;
+  }
+}
