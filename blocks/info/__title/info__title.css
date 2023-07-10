@@ -4,3 +4,10 @@
   line-height: 58px;
   margin: 0 0 40px;
 }
+
+@media screen and (max-width: 768px) {
+  .info__title {
+    font-size: 7.04vw;
+    line-height: calc(100% + 4px);
+  }
+}

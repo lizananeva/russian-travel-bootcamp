@@ -11,3 +11,10 @@
     line-height: calc(100% + 4px);
   }
 }
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    max-width: 97%;
+    font-size: 42px;
+  }
+}

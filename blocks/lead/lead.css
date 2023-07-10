@@ -9,3 +9,10 @@
     padding-top: 38px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .lead {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

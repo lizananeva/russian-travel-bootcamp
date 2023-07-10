@@ -10,3 +10,11 @@
     margin-bottom: 56px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .lead__subtitle {
+    max-width: 65%;
+    font-size: 3.907vw;
+    line-height: calc(100% + 6px);
+  }
+}

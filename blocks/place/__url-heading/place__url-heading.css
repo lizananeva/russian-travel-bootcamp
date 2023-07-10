@@ -7,3 +7,9 @@
   text-transform: uppercase;
   margin-bottom: 8px;
 }
+
+@media screen and (max-width: 768px) {
+  .place__url-heading {
+    margin-bottom: 12px;
+  }
+}

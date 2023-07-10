@@ -2,3 +2,9 @@
   max-width: 984px;
   align-items: flex-start;
 }
+
+@media screen and (max-width: 768px) {
+  .info {
+    max-width: 100%;
+  }
+}

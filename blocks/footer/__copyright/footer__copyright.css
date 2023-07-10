@@ -4,3 +4,9 @@
   margin: 0;
   text-align: right;
 }
+
+@media screen and (max-width: 680px) {
+  .footer__copyright {
+    line-height: 1;
+  }
+}
